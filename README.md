@@ -12,7 +12,7 @@
 
 _Put description_
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nate3223l&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nate3223&show_icons=true&theme=dracula)
   <h2 align='center'>What I use</h2>
 **Web dev**
 
