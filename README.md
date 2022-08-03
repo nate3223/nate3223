@@ -1,6 +1,6 @@
 <div align='center'> 
   
-<h2>Heyo, I'm Nate👋<h2/>
+<h2>Hi, I'm Nate👋<h2/>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -12,7 +12,7 @@
 
 _Put description_
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciennnl&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nate3223l&show_icons=true&theme=dracula)
   <h2 align='center'>What I use</h2>
 **Web dev**
 
